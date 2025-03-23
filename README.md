@@ -14,8 +14,8 @@ To leverage my expertise in **offensive security, ethical hacking, and threat in
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Offensive Security & Pentesting              | <a href="https://tryhackme.com/p/msydprashanth">TryHackMe Labs</a> |
-| SIEM Implementation & Log Analysis          | <a href="https://splunk.com">SIEM Implementation</a> |
-| Network Traffic Monitoring & Attack Detection | <a href="https://zeek.org">Zeek & Suricata</a> |
+| SIEM Implementation & Log Analysis          | <a hHref="https://splunk.com">SIEM Implementation</a> |
+| Network Traffic Monitoring & Attack Detection | <a hhref="https://zeek.org">Zeek & Suricata</a> |
 | Security Automation with Python & Shell       | Automated Threat Mitigation |
 | Incident Response Planning & Execution      | SOC Playbooks & Case Management |
 | Open-Source Intelligence (OSINT)            | Threat Intelligence Reports |
