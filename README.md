@@ -5,7 +5,7 @@
 ## 🚀 About Me
 I'm a highly motivated **Offensive Cybersecurity Specialist** and **Security Intelligence Analyst** with a strong passion for ethical hacking, penetration testing, and red teaming. My expertise lies in **vulnerability assessment, threat intelligence, and cloud security**, and I have hands-on experience with various cybersecurity tools and methodologies. 
 
-Currently, I am pursuing my **Master of Science in Cybersecurity and Information Assurance** at the **University of Central Missouri (Expected: May 2025)**. I am actively seeking opportunities in **Offensive Security**, **Penetration Testing**, and **Red Team Operations** to contribute my skills in ethical hacking and threat analysis while continuously growing in this dynamic field.
+I am pursuing my **Master of Science in Cybersecurity and Information Assurance** at the **University of Central Missouri (Expected: May 2025)**. I am actively seeking opportunities in **Offensive Security**, **Penetration Testing**, and **Red Team Operations** to contribute my ethical hacking and threat analysis skills while continuously growing in this dynamic field.
 
 ## 🎯 Objective
 To leverage my expertise in **offensive security, ethical hacking, and threat intelligence** to secure digital infrastructures and enhance security operations. I am eager to join a **Red Team**, **Penetration Testing**, or **Security Operations Center (SOC)** role where I can apply my skills to identify and mitigate security vulnerabilities.
@@ -13,7 +13,7 @@ To leverage my expertise in **offensive security, ethical hacking, and threat in
 ## 🛠️ Skills & Associated Projects
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Offensive Security & Pentesting              | <a href="https://tryhackme.com">TryHackMe Labs</a> |
+| Offensive Security & Pentesting              | <a href="https://tryhackme.com/p/msydprashanth">TryHackMe Labs</a> |
 | SIEM Implementation & Log Analysis          | <a href="https://splunk.com">SIEM Implementation</a> |
 | Network Traffic Monitoring & Attack Detection | <a href="https://zeek.org">Zeek & Suricata</a> |
 | Security Automation with Python & Shell       | Automated Threat Mitigation |
