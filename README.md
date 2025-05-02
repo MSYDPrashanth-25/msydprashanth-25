@@ -60,19 +60,28 @@ To leverage my expertise in **offensive security, ethical hacking, and threat in
 
 ## 📂 Certifications
 
-### 1. Introduction to Cybersecurity Tools & Cyber Attacks
+### 1. CompTIA Security+
+- **Issued by:** CompTIA  
+- **Credential ID:** 37d95baa-bcce-44ce-9256-80cfee0bf8d1  
+- **Verification:** [View Certificate](https://www.credly.com/badges/37d95baa-bcce-44ce-9256-80cfee0bf8d1/public_url)  
+- <a href="https://www.credly.com/badges/37d95baa-bcce-44ce-9256-80cfee0bf8d1/public_url" target="_blank">
+  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+ Badge" />
+</a>
+
+
+### 2. Introduction to Cybersecurity Tools & Cyber Attacks
 - **Issued by:** IBM (via Coursera)
 - **Date:** September 15, 2020
 - **Verification:** [Verify Certificate](https://coursera.org/verify/4PK3NL5WHZLR)
 
-### 2. Linux Training Certification
+### 3. Linux Training Certification
 - **Issued by:** International Institute for Learning, Inc.
 - **Course Name:** MSECONA, LINx
 - **Course Duration:** 2021-2022
 - **Grade:** A
 - **Certificate ID:** KTIS1594
 
-### 4. Beginning SQL Server
+### 5. Beginning SQL Server
 - **Issued by:** Coursera Project Network
 - **Date:** September 15, 2020
 - **Verification:** [Verify Certificate](https://coursera.org/verify/GFA3TCQQCXSJ)
