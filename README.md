@@ -5,7 +5,7 @@
 ## 🚀 About Me
 I'm a highly motivated **Offensive Cybersecurity Specialist** and **Security Intelligence Analyst** with a strong passion for ethical hacking, penetration testing, and red teaming. My expertise lies in **vulnerability assessment, threat intelligence, and cloud security**, and I have hands-on experience with various cybersecurity tools and methodologies. 
 
-I am pursuing my **Master of Science in Cybersecurity and Information Assurance** at the **University of Central Missouri (Expected: May 2025)**. I am actively seeking opportunities in **Offensive Security**, **Penetration Testing**, and **Red Team Operations** to contribute my ethical hacking and threat analysis skills while continuously growing in this dynamic field.
+I am pursuing my Master of Science in Cybersecurity and Information Assurance at the University of Central Missouri (expected May 2025). I am actively seeking opportunities in **Offensive Security**, **Penetration Testing**, and **Red Team Operations** to contribute my ethical hacking and threat analysis skills while continuously growing in this dynamic field.
 
 ## 🎯 Objective
 To leverage my expertise in **offensive security, ethical hacking, and threat intelligence** to secure digital infrastructures and enhance security operations. I am eager to join a **Red Team**, **Penetration Testing**, or **Security Operations Center (SOC)** role where I can apply my skills to identify and mitigate security vulnerabilities.
