@@ -1,96 +1,101 @@
 # Hello, I'm Siva Yesu Durga Prashanth Mirapala! 👋
 
-<a href="https://www.linkedin.com/in/mirapala-siva-yesu-durga-prashanth/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/msdurgaprashanth/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:msdurgaprashanth@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+---
 
 ## 🚀 About Me
-I'm a highly motivated **Offensive Cybersecurity Specialist** and **Security Intelligence Analyst** with a strong passion for ethical hacking, penetration testing, and red teaming. My expertise lies in **vulnerability assessment, threat intelligence, and cloud security**, and I have hands-on experience with various cybersecurity tools and methodologies. 
+I am a **Cybersecurity Engineer** with 4+ years of experience in **offensive and defensive security**, specializing in **penetration testing, SOC operations, and cloud security (AWS)**. Security+ certified, currently pursuing **CCNA and CEH**, I focus on **automating threat detection, reducing vulnerabilities, and enhancing incident response**.  
 
-I am pursuing my Master of Science in Cybersecurity and Information Assurance at the University of Central Missouri (expected May 2025). I am actively seeking opportunities in **Offensive Security**, **Penetration Testing**, and **Red Team Operations** to contribute my ethical hacking and threat analysis skills while continuously growing in this dynamic field.
+I have successfully secured SaaS environments, led engineering teams, and aligned security initiatives with **NIST and ISO frameworks**. Passionate about hands-on cybersecurity, I combine offensive and defensive strategies to build resilient digital infrastructures.
+
+---
 
 ## 🎯 Objective
-To leverage my expertise in **offensive security, ethical hacking, and threat intelligence** to secure digital infrastructures and enhance security operations. I am eager to join a **Red Team**, **Penetration Testing**, or **Security Operations Center (SOC)** role where I can apply my skills to identify and mitigate security vulnerabilities.
+Seeking opportunities in **Red Teaming, Penetration Testing, and SOC Operations** to leverage my skills in **ethical hacking, threat intelligence, and cloud security**, driving stronger security postures and reducing organizational risk.
 
-## 🛠️ Skills & Associated Projects
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Offensive Security & Pentesting              | <a href="https://tryhackme.com/p/msydprashanth">TryHackMe Labs</a> |
-| SIEM Implementation & Log Analysis          | <a hHref="https://splunk.com">SIEM Implementation</a> |
-| Network Traffic Monitoring & Attack Detection | <a hhref="https://zeek.org">Zeek & Suricata</a> |
-| Security Automation with Python & Shell       | Automated Threat Mitigation |
-| Incident Response Planning & Execution      | SOC Playbooks & Case Management |
-| Open-Source Intelligence (OSINT)            | Threat Intelligence Reports |
-
-## 🛠️ Technical Skills
-### Offensive Security & Threat Analysis
-<div>
-    <img src="https://img.shields.io/badge/-Metasploit-1679A7?&style=for-the-badge&logo=Metasploit&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Burp_Suite-F57921?&style=for-the-badge&logo=BurpSuite&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-</div>
-
-### Cloud & Virtualization
-<div>
-    <img src="https://img.shields.io/badge/-AWS-FF9900?&style=for-the-badge&logo=amazonaws&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white" />
-</div>
-
-### DevOps & Security Automation
-<div>
-    <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=GitHub&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Jenkins-D24939?&style=for-the-badge&logo=Jenkins&logoColor=white" />
-</div>
-
-### ChatGPT & AI for Security Analysis
-- Using **ChatGPT** for **threat intelligence research**, **automated report generation**, and **security awareness training**.
+---
 
 ## 🔥 Professional Experience
-- **Linux Administrator | Night Out TTS Pvt Ltd (2020 – 2023)**
-  - Secured Linux servers, optimized system performance, and ensured compliance.
-  - Implemented AWS security measures, including IAM policies and encryption.
-  - Conducted security risk assessments and threat mitigation.
-  - Led IT projects, provided technical support, and enhanced system security.
-  - Managed and automated system processes using Python and Shell scripting.
-  - Conducted security audits, identified vulnerabilities, and improved threat detection capabilities.
-  
-- **Intern - Cybersecurity & Intelligence Research | Night Out TTS Pvt Ltd (2019 – 2020)**
-  - Researched global threat trends and cybersecurity risks.
-  - Conducted OSINT analysis and wrote security intelligence reports.
-  - Assisted in writing intelligence reports and security briefings for teams and stakeholders.
-  - Analyzed cybercrime trends and emerging security threats to enhance system defenses.
+
+**Technical Lead (Founding Team Member) | Night Out TTS Pvt Ltd | Remote (India)**  
+*Oct 2019 – Mar 2023*  
+- Promoted from intern to **Technical Lead**, managing a **6-member security & infrastructure team**.  
+- Architected secure, scalable SaaS features on **AWS and Kubernetes**, achieving **99.9% uptime**.  
+- Reduced IAM-related incidents by **70%** via least-privilege policies and proactive CloudTrail audits.  
+- Automated patching and log triage with **Python + Ansible**, saving **20+ hours weekly**.  
+- Conducted penetration tests and **Nessus scans**, reducing critical vulnerabilities by **40%**.  
+- Strengthened CI/CD pipelines using **Jenkins + SonarQube**, cutting code vulnerabilities by **25%**.  
+- Enhanced IDS/IPS capabilities with **Snort custom rules**, improving detection by **30%**.  
+- Designed **red-team simulation labs** (Kali Linux, Metasploit), accelerating response times by **15%**.  
+- Performed **NIST 800-53 risk assessments**, mitigating **15+ high-risk vulnerabilities**.
+
+**Cybersecurity Intern | Night Out TTS Pvt Ltd | Remote (India)**  
+*Apr 2019 – Sept 2019*  
+- Neutralized **90% of OWASP Top 10 vulnerabilities** via penetration testing (Burp Suite, Nmap).  
+- Deployed **Python honeypots with ELK**, detecting **85% of anomalies in real time**.  
+- Hardened Linux systems via **SSH + iptables**, reducing attack surface by **50%**.  
+- Supported SOC operations: monitored traffic (**Wireshark, Snort**) and produced post-incident reports, reducing **MTTR by 10%**.  
+- Contributed to **ISO 27001 policy development**, accelerating adoption of security controls.
+
+---
+
+## 🎓 Education
+
+**Master of Science in Cybersecurity & Information Assurance**  
+*University of Central Missouri, MO | Expected May 2025 | GPA: 3.5/4.0*  
+- Relevant Coursework: Advanced Networking & Security, Cryptography, Threat Intelligence, Cloud Security, Network Forensics, Risk Management
+
+---
+
+## 🛠️ Skills
+
+**Penetration Testing & Offensive Security:** Metasploit, Burp Suite, Nmap, Nessus, Hydra, Exploit Development, OWASP Top 10  
+
+**Cloud & Infrastructure Security:** AWS (IAM, EC2, S3, VPC, CloudTrail, Lambda), Docker, Kubernetes, Terraform  
+
+**Threat Detection & Monitoring:** SOC Operations, SIEM (Splunk, ELK), Wireshark, Snort, Suricata, EDR, IDS/IPS, Firewalls  
+
+**Automation & Scripting:** Python, Bash, PowerShell, Ansible, Jenkins  
+
+**Compliance & Governance:** NIST 800-53, ISO 27001, Incident Response, Threat Modeling  
+
+**DevSecOps:** Secure CI/CD, SonarQube, GitHub, Jenkins  
+
+**AI in Security:** Using ChatGPT & AI tools for threat research, automated reporting, and awareness training  
+
+---
 
 ## 📂 Certifications
 
-### 1. CompTIA Security+
-- **Issued by:** CompTIA  
-- **Credential ID:** 37d95baa-bcce-44ce-9256-80cfee0bf8d1  
-- **Verification:** [View Certificate](https://www.credly.com/badges/37d95baa-bcce-44ce-9256-80cfee0bf8d1/public_url)  
-- <a href="https://www.credly.com/badges/37d95baa-bcce-44ce-9256-80cfee0bf8d1/public_url" target="_blank">
-  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+ Badge" />
-</a>
+- **CompTIA Security+** – Certified Apr 2025  
+- **Cisco CCNA** – In Progress, Target Sept 2025  
+- **Certified Ethical Hacker (CEH)** – In Progress, Target Dec 2025  
 
+---
 
-### 2. Introduction to Cybersecurity Tools & Cyber Attacks
-- **Issued by:** IBM (via Coursera)
-- **Date:** September 15, 2020
-- **Verification:** [Verify Certificate](https://coursera.org/verify/4PK3NL5WHZLR)
+## 📁 Projects & Labs
 
-### 3. Linux Training Certification
-- **Issued by:** International Institute for Learning, Inc.
-- **Course Name:** MSECONA, LINx
-- **Course Duration:** 2021-2022
-- **Grade:** A
-- **Certificate ID:** KTIS1594
+| Project / Lab | Description | Link |
+|---------------|-------------|------|
+| TryHackMe Labs | Web, Network, and Privilege Escalation Challenges | [View Labs](https://tryhackme.com/p/msydprashanth) |
+| Red Team Simulation | Kali Linux & Metasploit labs to simulate attack scenarios | TBD |
+| Security Automation | Python + Ansible scripts for log parsing and patching | TBD |
 
-### 5. Beginning SQL Server
-- **Issued by:** Coursera Project Network
-- **Date:** September 15, 2020
-- **Verification:** [Verify Certificate](https://coursera.org/verify/GFA3TCQQCXSJ)
-  
-## 📥 How to Access Certificates
-All certificates are available in this repository as PDF files.
-  
-## 📫 Let's Connect!
-- **LinkedIn**: [mirapala-siva-yesu-durga-prashanth](https://www.linkedin.com/in/mirapala-siva-yesu-durga-prashanth/)
-- **Email**: msdurgaprashanth@gmail.com
+---
 
-🔥 *Always eager to learn, contribute, and collaborate in the cybersecurity community!*
+## 📫 Let's Connect
+- **LinkedIn:** [mirapala-siva-yesu-durga-prashanth](https://www.linkedin.com/in/msydprashanth/)  
+- **Email:** msdurgaprashanth@gmail.com  
+- **Phone:** +1 (913) 413-6342  
+- **Location:** Overland Park, KS  
+
+---
+
+## 📊 GitHub Stats
+<img align="left" alt="Siva's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" />
+
+---
+
+✨ *Dedicated to offensive and defensive cybersecurity, Red Team operations, and building resilient infrastructures.*
