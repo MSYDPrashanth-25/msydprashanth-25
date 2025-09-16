@@ -60,7 +60,7 @@ Leverage expertise in **offensive security, ethical hacking, and threat intellig
 ## 🔥 Professional Experience
 
 **Technical Lead (Founding Team Member) | Night Out TTS Pvt Ltd | Remote (India)**  
-*Oct 2019 – Mar 2023*  
+*Oct 2020 – July 2023*  
 - Promoted from Cybersecurity Intern to **Technical Lead**, managing a **6-member team**.  
 - Architected secure, scalable SaaS features on **AWS & Kubernetes**, achieving **99.9% uptime**.  
 - Reduced IAM-related incidents by **70%** via least-privilege policies and CloudTrail audits.  
@@ -72,7 +72,7 @@ Leverage expertise in **offensive security, ethical hacking, and threat intellig
 - Performed **NIST 800-53 risk assessments**, mitigating **15+ high-risk vulnerabilities**.
 
 **Cybersecurity Intern | Night Out TTS Pvt Ltd | Remote (India)**  
-*Apr 2019 – Sept 2019*  
+*Apr 2020 – Sept 2020*  
 - Neutralized **90% of OWASP Top 10 vulnerabilities** via penetration testing (Burp Suite, Nmap).  
 - Deployed **Python honeypots with ELK**, detecting **85% of anomalies in real time**.  
 - Hardened Linux systems via **SSH + iptables**, reducing attack surface by **50%**.  
@@ -116,9 +116,9 @@ Leverage expertise in **offensive security, ethical hacking, and threat intellig
 ---
 
 ## 📫 Let's Connect!
-- **LinkedIn**: [mirapala-siva-yesu-durga-prashanth](https://www.linkedin.com/in/mirapala-siva-yesu-durga-prashanth/)  
+- **LinkedIn**: [mirapala-siva-yesu-durga-prashanth]((https://www.linkedin.com/in/msydprashanth/))  
 - **Email**: msdurgaprashanth@gmail.com  
 - **Phone**: +1 (913) 413-6342  
-- **Location**: Overland Park, KS  
+  
 
 🔥 *Dedicated to offensive and defensive cybersecurity, red teaming, and building resilient infrastructures.*
